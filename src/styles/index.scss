@@ -1,0 +1,8 @@
+@import "~normalize.css"; // тильда указывает, что нужно зайти в node_modules
+@import "roboto.scss";
+
+body {
+   background: white;
+   font-family: "Roboto", sans-serif;
+   font-size: 16px;
+}
