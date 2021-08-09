@@ -1,0 +1,15 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Style+Script&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Style+Script&family=Ubuntu:wght@300&display=swap"); */
+/* body {
+   font-family: "Style Script", cursive;
+} */
+/* @font-face {
+   font-family: "Style Script";
+   src: url("../fonts/StyleScript-Regular.ttf") format("ttf");
+   font-weight: 600;
+   font-style: normal;
+} */
+.hello {
+   font-size: 30px;
+}
